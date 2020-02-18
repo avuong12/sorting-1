@@ -1,8 +1,3 @@
-
-
-
-
-
 describe('Bubble Sort', function(){
   beforeAll(function(){
     spyOn(window, 'swap').and.callThrough();
